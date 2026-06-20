@@ -1,6 +1,6 @@
 # Hi, I'm haruhadj 👋
 
-AI-native full-stack developer and hardware enthusiast. I build type-safe full-stack apps and optimize hardware across Windows and Linux, using agentic AI and Docker to ship faster without losing sight of the fundamentals — from DB transactions to system metrics.
+Full-stack developer & hardware enthusiast, building type-safe apps and tuned systems with agentic AI and Docker.
 
 ---
 
