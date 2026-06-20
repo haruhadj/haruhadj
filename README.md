@@ -1,4 +1,4 @@
-# Made by AI
+# Made with the help of AI
 
 ### 💻 AI-Native Full-Stack Developer & Hardware Enthusiast
 I build scalable web applications and DIY hardware solutions. I believe in leveraging AI to move fast, while maintaining a deep understanding of the "under-the-hood" logic—whether that’s PostgreSQL transactions or lithium-ion discharge rates.
