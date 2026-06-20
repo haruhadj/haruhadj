@@ -25,13 +25,23 @@ I build type-safe full-stack applications and optimize hardware configurations a
 
 ## 🤖 Agentic & Autonomous Workflows
 
-Rather than using basic code-completion, I rely on a deeply integrated workspace where AI acts as an autonomous engineer running right within my containerized environments and terminals.
+I use an integrated workspace where AI acts as an autonomous engineer running directly within my containerized environments and terminals.
 
-* **Full-Codebase Navigation:** Harnessing **Claude Code** directly within my OS and VS Code environments to map complex file relationships, execute sweeping multi-file refactors, and trace unfamiliar architectures instantly.
-* **Autonomous Test-and-Fix Loops:** Offloading tedious bug tracking to my environment. When a lint or build error drops during execution, my toolchain catches it, self-corrects the logic, and re-runs validations until green.
-* **Deterministic Native Tooling:** Merging natural language with native CLI utilities. Claude Code drives `git`, handles branch creation, formats changes, and pushes clean pull requests directly from the terminal layer.
-* **Containerized Pipelines:** Leveraging **Docker** to ensure seamless parity between local AI-assisted coding environments and production deployment targets, reducing "it works on my machine" bottlenecks.
-* **Rigid Workspace Context:** Using project-level configurations (`CLAUDE.md`), schema boundaries, and strict **Zod** validation layers so agentic actions always stay perfectly predictable and type-safe.
+* **Full-Codebase Navigation:** Using Claude Code to map file relationships and execute multi-file refactors instantly.
+* **Autonomous Fix Loops:** Letting toolchains catch lint or build errors and self-correct the logic automatically.
+* **Native Tooling:** Driving Git workflows, branch creation, and pull requests directly from the CLI via natural language.
+* **Containerized Pipelines:** Leveraging Docker to guarantee parity between local AI workflows and production targets.
+* **Rigid Guardrails:** Enforcing strict schemas (`CLAUDE.md`, Zod) so agentic actions stay predictable and type-safe.
+
+---
+
+## 📚 Current Focus & Studies
+
+Actively expanding my skillset into new architectures and paradigms:
+
+* ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) **In-Memory Caching:** Implementing low-latency caching, rate-limiting, and state management.
+* ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) **Cross-Platform Mobile:** Extending frontend development into native iOS and Android apps.
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Automation & Scripting:** Building rapid backend microservices and efficient data pipelines.
 
 ---
 
@@ -45,7 +55,7 @@ Rather than using basic code-completion, I rely on a deeply integrated workspace
 ---
 
 ## ⚡ Beyond the Code
-* **Hardware Tuning:** Passionate about custom PC hardware optimization, GPU performance/longevity (undervolting), and monitoring physical system constraints.
-* **Local Architecture Experiments:** Spinning up local LLM coding engines on local hardware configurations to build ultra-low latency, completely offline development workflows.
+* **Hardware Tuning:** PC optimization, custom hardware configurations, and component undervolting.
+* **Local AI Infrastructure:** Running offline LLM coding engines locally to eliminate latency and preserve privacy.
 
 Let's build something efficient. 🚀
