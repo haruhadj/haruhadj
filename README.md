@@ -1,6 +1,6 @@
 # Hi there, I'm an AI-Native Full-Stack Developer & Hardware Enthusiast 👋
 
-I build highly typed, modern web applications and optimize DIY hardware configurations across Windows 11 and performance-tuned Linux environments. I leverage advanced agentic AI systems and containerized pipelines to automate the entire software development lifecycle—moving from architectural mapping to production-ready code rapidly, without sacrificing a rigorous, lower-level understanding of database execution, API constraints, or hardware metrics.
+I build type-safe full-stack applications and optimize hardware configurations across Windows and Linux. I leverage agentic AI and Docker pipelines to accelerate development while maintaining a deep, foundational understanding of the underlying logic—from DB transactions to physical system metrics.
 
 ---
 
