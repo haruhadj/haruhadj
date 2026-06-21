@@ -34,7 +34,8 @@ Full-stack developer & hardware enthusiast, building type-safe apps and tuned sy
 ---
 
 ## 📚 Currently Learning
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) cross-platform mobile · ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) automation & data pipelines
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
