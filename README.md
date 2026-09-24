@@ -28,8 +28,3 @@
   <img src="https://github-stats-extended.vercel.app/api?username=haruhadj&show_icons=true&theme=tokyonight" alt="haruhadj's GitHub Stats" height="180px" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=haruhadj&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
-
----
-
-## ⚡ Beyond Code
-PC hardware tuning & undervolting · local LLM infra for offline, low-latency coding
