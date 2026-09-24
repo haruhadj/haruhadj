@@ -41,8 +41,8 @@ Full-stack developer & hardware enthusiast, building type-safe apps and tuned sy
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haruhadj&show_icons=true&theme=tokyonight" alt="haruhadj's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruhadj&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=haruhadj&show_icons=true&theme=tokyonight" alt="haruhadj's GitHub Stats" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=haruhadj&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
